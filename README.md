@@ -34,3 +34,4 @@
 ## Как запустить
 1.  Откройте ноутбук в Colab: [Ноутбук](https://colab.research.google.com/drive/1eL744IlvVMGhIY_N5zuwk8DEIRmbH4-v?usp=sharing)
 2.  При необходимости измените ссылку на данные в разделе "Загрузка датасета"
+3.  Запустите все ячейки
